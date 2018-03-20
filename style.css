@@ -1,0 +1,29 @@
+body {
+	padding-top: 100px;
+  background-color: #272822;
+  font-family: 'IBM Plex Mono', monospace;
+}
+.content {
+	margin: auto;
+	text-align: center;
+  	width: 500px;
+  	padding: 10px;
+  	background: #DDD;
+  	border-radius: 6px;
+  	-moz-border-radius: 6px;
+  	-webkit-border-radius: 6px;
+  	border-top: 1px solid #EEE;
+  	border-left: 1px solid #EEE;
+  	border-right: 1px solid #AAA;
+  	border-bottom: 1px solid #AAA; 
+}
+
+.error {
+	border: 3px solid red;
+    padding: 5px;
+}
+
+.success {
+	border: 3px solid green;
+    padding: 5px;
+}
