@@ -1,5 +1,8 @@
 <?php
+  require_once "recaptchalib.php";
+
   $pageURL = htmlspecialchars($_POST["pageURL"]);
+
   function getTheme($pageURL = false) {
     if ($pageURL) {
 
