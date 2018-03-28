@@ -1,4 +1,5 @@
-# Wordpress-themes-finder — Simple and Fast Wordpress finder
+# Wordpress-themes-finder
+## Simple and Fast Wordpress theme finder
 This script is a simple, fast, way to find out which theme a Wordpress page uses.
 
 ## Authors
