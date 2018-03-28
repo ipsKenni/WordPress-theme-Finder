@@ -11,4 +11,6 @@ You can see an example of the script on [Wordpress themes finder website](https:
 
 ## Install
 
-Simply load the data onto your webserver
+1. Simply load the data onto your web server.
+2. Edit on line 9 and 62 your private or public reCaptcha key.
+3. Create the [recaptchalib.php](https://github.com/google/recaptcha/blob/1.0.0/php/recaptchalib.php) in the same directory like this repository.
