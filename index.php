@@ -57,7 +57,7 @@
 <body>
 <div class="content">
   <form action="" method="post">
-  <p>Website Url: </p><input type="text" size="50" value="<?php echo $pageURL; ?>" name="pageURL"> 
+  <p>Website Url: </p><input type="text" size="40" value="<?php echo $pageURL; ?>" name="pageURL"> 
   <input type="submit" value="Submit" name="submitbutton">
   <center><div class="g-recaptcha" data-sitekey="Write here your public recaptcha key"></div></center>
   <p>Example: http://example.com/</p>
