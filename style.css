@@ -27,3 +27,15 @@ body {
 	border: 3px solid green;
     padding: 5px;
 }
+
+input {
+  border:1px solid #ccc;
+  font-size:20px;
+  min-height:10px;
+  border-bottom: 1px solid #AAA; 
+  -webkit-border-radius:5px;
+  -moz-border-radius:5px;
+  -o-border-radius:5px;
+  -ms-border-radius:5px;
+  border-radius:5px;
+}
